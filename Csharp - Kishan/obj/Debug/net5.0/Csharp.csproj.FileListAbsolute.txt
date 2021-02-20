@@ -1,0 +1,16 @@
+C:\Users\kisha\Desktop\Csharp\bin\Debug\net5.0\Csharp.exe
+C:\Users\kisha\Desktop\Csharp\bin\Debug\net5.0\Csharp.deps.json
+C:\Users\kisha\Desktop\Csharp\bin\Debug\net5.0\Csharp.runtimeconfig.json
+C:\Users\kisha\Desktop\Csharp\bin\Debug\net5.0\Csharp.runtimeconfig.dev.json
+C:\Users\kisha\Desktop\Csharp\bin\Debug\net5.0\Csharp.dll
+C:\Users\kisha\Desktop\Csharp\bin\Debug\net5.0\ref\Csharp.dll
+C:\Users\kisha\Desktop\Csharp\bin\Debug\net5.0\Csharp.pdb
+C:\Users\kisha\Desktop\Csharp\obj\Debug\net5.0\Csharp.csprojAssemblyReference.cache
+C:\Users\kisha\Desktop\Csharp\obj\Debug\net5.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisha\Desktop\Csharp\obj\Debug\net5.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\kisha\Desktop\Csharp\obj\Debug\net5.0\Csharp.AssemblyInfo.cs
+C:\Users\kisha\Desktop\Csharp\obj\Debug\net5.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\kisha\Desktop\Csharp\obj\Debug\net5.0\Csharp.dll
+C:\Users\kisha\Desktop\Csharp\obj\Debug\net5.0\ref\Csharp.dll
+C:\Users\kisha\Desktop\Csharp\obj\Debug\net5.0\Csharp.pdb
+C:\Users\kisha\Desktop\Csharp\obj\Debug\net5.0\Csharp.genruntimeconfig.cache
